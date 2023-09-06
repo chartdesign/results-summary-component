@@ -28,7 +28,7 @@ svg {
   box-shadow: 12px 12px 12px rgba(0, 0, 0, 0.2);
 }
 
-@media (max-width: 640px) {
+@media screen and (max-width: 640px) {
   .card {
     display: flex;
     flex-direction: column;
